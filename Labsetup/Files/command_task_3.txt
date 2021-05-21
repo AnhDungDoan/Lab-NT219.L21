@@ -1,0 +1,8 @@
+openssl enc -aes-128-ecb -e -in pic_original.bmp -out output.bin -K 00112233445566778889aabbccddeeff -iv 0102030405060708
+head -c 54 pic_original.bmp > header
+tail -c +55 output.bin >body
+cat header body > new.bmp
+openssl enc -aes-128-cbc -e -in pic_original.bmp -out output.bin -K 00112233445566778889aabbccddeeff -iv 0102030405060708
+head -c 54 pic_original.bmp > header
+tail -c +55 output.bin >body
+cat header body > new2.bmp
