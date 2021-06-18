@@ -34,18 +34,15 @@ namespace HashCalculator
         }
         private string calSHA1(string message)
         {
-            using (SHA1Managed sha1 = new SHA1Managed())
+            byte[] bytes = Encoding.Unicode.GetBytes(message);
+            SHA1Managed hashstring = new SHA1Managed();
+            byte[] hash = hashstring.ComputeHash(bytes);
+            string hashString = string.Empty;
+            foreach (byte x in hash)
             {
-                var hash = sha1.ComputeHash(Encoding.UTF8.GetBytes(message));
-                var sb = new StringBuilder(hash.Length * 2);
-
-                foreach (byte b in hash)
-                {
-                    sb.Append(b.ToString("X2")); // x2 = lowercase
-                }
-
-                return sb.ToString();
+                hashString += String.Format("{0:X2}", x);
             }
+            return hashString;
         }
         private string calSHA256(string message)
         {
@@ -97,17 +94,16 @@ namespace HashCalculator
             }
             return hashString;
         }
-        private string ToHexString(string str)
+        private string ToHexString(string message)
         {
-            var sb = new StringBuilder();
-
-            var bytes = Encoding.Unicode.GetBytes(str);
-            foreach (var t in bytes)
+            var bytes = new byte[message.Length / 2];
+            string text = "";
+            for (var i = 0; i < bytes.Length; i++)
             {
-                sb.Append(t.ToString("X2"));
+                bytes[i] = Convert.ToByte(message.Substring(i * 2, 2), 16);
+                text += (char)bytes[i];
             }
-
-            return sb.ToString(); // returns: "48656C6C6F20776F726C64" for "Hello world"
+            return text;// returns: "Hello world" for "48656C6C6F20776F726C64"
         }
 
         
