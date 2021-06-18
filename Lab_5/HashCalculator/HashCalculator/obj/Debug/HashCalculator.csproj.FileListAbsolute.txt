@@ -1,0 +1,10 @@
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\bin\Debug\HashCalculator.exe.config
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\bin\Debug\HashCalculator.exe
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\bin\Debug\HashCalculator.pdb
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csprojAssemblyReference.cache
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\obj\Debug\HashCalculator.mainGUI.resources
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\obj\Debug\HashCalculator.Properties.Resources.resources
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.GenerateResource.cache
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\obj\Debug\HashCalculator.csproj.CoreCompileInputs.cache
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\obj\Debug\HashCalculator.exe
+D:\HK3_UIT\NT219.L21\TH\5\HashCalculator\HashCalculator\obj\Debug\HashCalculator.pdb
