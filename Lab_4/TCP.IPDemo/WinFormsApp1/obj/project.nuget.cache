@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "5narUl9WS7PbP+/1Z5U0m3DqVm9HcKUWZZKZEdSBz+i2+HIqPY3hvPy7JU6bquxTjy6P7oEwdRX/j4wdkleKOg==",
+  "success": true,
+  "projectFilePath": "G:\\VSCode\\TCP.IPDemo\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SimpleTCP 1.0.24' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SimpleTCP",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
