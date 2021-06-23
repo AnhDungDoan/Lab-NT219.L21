@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VTlbJ3JWpNL6h2aHOAWtGbaxZ51qAiCOHTV/EKk8Lhg19qMjlT1uoRzKmdl4NYq8YlxAleixxuvqNeN30DhX1A==",
+  "dgSpecHash": "bWdLr9wbpGIR90I3j0ePc40jGpFo11h1Q8ZcIMuLnd4jpmLq7c06aXzIQmVKytGkWN5hhXjQP2z0XkzZCdVD7g==",
   "success": true,
-  "projectFilePath": "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj",
+  "projectFilePath": "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\datnl\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
   ],
   "logs": [
     {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\TCPIPDemo.csproj": {}
+    "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\TCPIPDemo.csproj": {}
   },
   "projects": {
-    "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj": {
+    "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj",
+        "projectUniqueName": "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj",
-        "packagesPath": "C:\\Users\\datnl\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\Client\\obj\\",
+        "projectPath": "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\datnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,21 +63,21 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\TCPIPDemo.csproj": {
+    "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\TCPIPDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\TCPIPDemo.csproj",
+        "projectUniqueName": "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\TCPIPDemo.csproj",
         "projectName": "TCPIPDemo",
-        "projectPath": "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\TCPIPDemo.csproj",
-        "packagesPath": "C:\\Users\\datnl\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\obj\\",
+        "projectPath": "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\TCPIPDemo.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\TCP.IPDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\datnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +91,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj": {
-                "projectPath": "D:\\School\\NT219.L21.ANTT-MMH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj"
+              "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj": {
+                "projectPath": "D:\\HK3_UIT\\NT219.L21\\TH\\Lab_4\\TCP.IPDemo\\Client\\Client.csproj"
               }
             }
           }
@@ -130,7 +130,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
